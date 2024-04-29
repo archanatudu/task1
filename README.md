@@ -38,6 +38,3 @@ h1 {
 
 When you open `a.html` in a web browser, you should see a blue "Hello, World!" heading.
 
-## Live Demo
-
-You can view a live demo of this project [here](link-to-live-demo).
